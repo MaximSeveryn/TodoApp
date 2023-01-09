@@ -107,7 +107,7 @@
 }
 
 #overlay .task-type select {
-    color: #007bff;
+    color: #395B64;
     display: block;
     /*hide original SELECT element: */
     background-color: #E7F6F2;
@@ -136,7 +136,7 @@
     font-size: 25px;
     padding: 30px;
     border-radius: 15px;
-    color: #007bff;
+    color: #395B64;
     height: 100px;
     width: 100%;
     /* box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset; */
@@ -147,7 +147,7 @@
     right: 20px;
     bottom: 20px;
     background-color: #E7F6F2;
-    color: #007bff;
+    color: #395B64;
     border: none;
     font-size: 25px;
     padding: 15px;
