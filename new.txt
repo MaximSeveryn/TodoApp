@@ -1,4 +1,4 @@
-<!-- <% newListItems.forEach(function(item){ %> -->
+<!--- <% newListItems.forEach(function(item){ %> -->
                     <!-- <div alt="You created this task at ${task.time}" class="taskItem ${task.status ? "active-task" : ""} ${task.type == "personal" ? "PT-task" : "BT-task"}">
                             <div class="task-content" id="task-line">
                                 <input 
